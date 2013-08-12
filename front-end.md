@@ -149,8 +149,8 @@
     - 交互设计
    
 - 研究
-    - html5 ：
-    - css3
+    - html5 ：`canvas` `localStorage和sessionStorage` `js中常用api` `web form2.0新特性`
+    - css3 ：`animations` `transform` `transition`
     - node.js
     - node-webkit
     - grunt
