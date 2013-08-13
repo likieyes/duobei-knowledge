@@ -1,10 +1,11 @@
 ## 后端端开发知识结构
 * 编程语言
+
   * Java
   * Node.js
   * Groovy
-   * Go
-   * ActionScript
+  * Go
+  * ActionScript
  
 * 服务器
   * [Nginx](http://nginx.org/en/)
@@ -18,6 +19,10 @@
   * [CouchDB](http://couchdb.apache.org/)
   * [Redis](http://redis.io/)
   * Hbase 
+  * H2
+  * Guava Cache
+  * Ehcache
+  * Memcached
 
 * 文件缓存/代理
    * [Varnish](https://www.varnish-cache.org/)
@@ -56,6 +61,7 @@
     * 日志存储和分析
     * hadoop
     * Hbase
+    * 文件系统
 
 * 集群
     * mysql 集群
