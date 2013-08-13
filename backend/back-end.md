@@ -72,7 +72,7 @@
 
 * 代码质量
     * sonar
-    * jenkins
+    * [jenkins](jenkins.md)
 
 * 构建工具
     * maven
