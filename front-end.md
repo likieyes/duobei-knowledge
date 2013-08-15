@@ -170,6 +170,56 @@
     - 测试平台
      
     
+前端：
+* 原生js 设计模式（一伟）
+* python node.js endjava数据(胖子)
+* h5 css3 
+    *  
+* websoket
+* angula google 
+* javascript node.js (kb)
+
+研究：
+
+* html5 css3 (hangliang)
+    * kb, yiwei
+
+* node.js (guolin) 
+
+    * 所有人
+
+* node-webkit (yunliang)
+    * luofei,fangzhou
+
+* grunt (kb) 
+    * guolin
+
+* javascript(Kb)
+    * yiwei guolin shuaizong
+
+* --commonjs--
+* Seajs (yunliang)
+    * kb
+* 响应式（hangliang）
+
+* 测试（kb）
+    * guolin  yunlaing
+
+* SEO(fangzhou)
+    * 所有人
+
+* 性能优化（yiwei）
+
+* 前端MVC（yunliang）
+
+* websoket (fangzhou)
+    * kb
+
+* endjava(数据模拟 胖子)
+
+* chrome 插件（kb）
+
+
 ## 前端书籍推荐
 
 ### CSS
@@ -188,5 +238,3 @@
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
-
-
