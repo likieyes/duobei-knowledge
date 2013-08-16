@@ -1,16 +1,13 @@
 ##duobei-knowlege
----
+
 技术知识总结
 
-
 ##文档目录
-----
-    
+
 * [前端](front-end.md)
 * [后端](backend/back-end.md)
 
 ##目前研发
------
 
 * html5和css3 （hangliang,kb,yiwei）
 * node.js (guolin, 所有人) 
