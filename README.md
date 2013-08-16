@@ -10,45 +10,31 @@
 * [后端](backend/back-end.md)
 
 ##目前研发
+-----
 
-[html5.jpg](static/img/html5.jpg) html5 css3 (hangliang)
-    * kb, yiwei
-
-* node.js (guolin) 
-
-    * 所有人
-
-* node-webkit (yunliang)
-    * luofei,fangzhou
-
-* grunt (kb) 
-    * guolin
-
-* javascript(Kb)
-    * yiwei guolin shuaizong
-
-* --commonjs--
-* Seajs (yunliang)
-    * kb
+* html5和css3 （hangliang,kb,yiwei）
+* node.js (guolin, 所有人) 
+* node-webkit (yunliang，luofei，fangzhou)
+* grunt (kb,guolin) 
+* javascript(Kb,yiwei guolin xieshuai)
+* Seajs (yunliang,kb)
 * 响应式（hangliang）
-
-* 测试（kb）
-    * guolin  yunlaing
-
-* SEO(fangzhou)
-    * 所有人
-
+* 测试（kb,guolin,yunlaing）
+* SEO(fangzhou,所有人)
 * 性能优化（yiwei）
-
 * 前端MVC（yunliang）
-
-* websoket (fangzhou)
-    * kb
-
-* endjava(数据模拟 胖子)
-
+* websoket (fangzhou，kb)
+* endjava(xueshuai)
 * chrome 插件（kb）
+* 数据库 （guolin，kb，后端所有）
+* 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
+* lucune (shaopeng,naiyun,guolin)
+* hadoop (naiyun,zhanwang,xujun)
+* 性能监控（zhenrong,guolin,fangzhou）
+* spring (guoning,guolin)
+* 缓存系统 （xujin,guolin,zhenrong,zhanwang）
 
+> note: 前端相关kb，yunliang 都要加入。后端 guolin，zhenrong 都要加入
 
 ##代码贡献
 

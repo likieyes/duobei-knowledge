@@ -97,32 +97,3 @@
 * 补充
     * [html5 desktop-notifications](html5/desktop-notifications.md) 
 
- 
-
-* spring html5 (guoning)
-* 推荐系统(hadoop)
-* 数据库 （xunjin）
-* 数据库 hadoop (shaopeng)
-* hadoop python (naiyun)
-* 数据库 （zhenrong）
-
-* 数据库 （guolin）
-    * 后端所有 kb
-
-* 推荐 （展望）
-    * xujun zhenrong guolin guoning
-
-* lucune (shaopeng)
-    * naiyun guolin
-
-* hadoop (naiyun)
-    * zhanwang xujun
-
-* 性能监控（zhenrong）
-    * guolin  fangzhou
-
-* spring (郭宁)
-    * guolin
-
-* 缓存系统 （xujin）
-    * guolin zhenrong zhanwang 
