@@ -20,7 +20,7 @@
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
 * 前端MVC（yunliang）
-* websoket (fangzhou，kb)
+* websoket (fangzhou，kb，tom)
 * endjava(xueshuai)
 * chrome 插件（kb）
 * 数据库 （guolin，kb，后端所有）
