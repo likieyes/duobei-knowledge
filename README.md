@@ -22,7 +22,7 @@
 * 前端MVC（yunliang）
 * websoket (fangzhou，kb，tom)
 * endjava(xueshuai)
-* chrome 插件（kb）
+* chrome 插件（kb，fangzhou）
 * 数据库 （guolin，kb，后端所有）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
 * lucune (shaopeng,naiyun,guolin)
