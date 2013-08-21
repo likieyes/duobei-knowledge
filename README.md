@@ -1,10 +1,10 @@
 ##duobei-knowlege
 
-技术知识总结
+技术知识总结(禁止fork项目，fork项目的同学请删除，直接在这个项目里提交)
 
 ##文档目录
 
-* [前端](front-end.md)
+* [前端](frontEnd/front-end.md)
 * [后端](backend/back-end.md)
 
 ##目前研发
@@ -20,7 +20,7 @@
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
 * 前端MVC（yunliang）
-* websoket (fangzhou，kb)
+* websocket (fangzhou，kb，tom，xieshuai)
 * endjava(xueshuai)
 * chrome 插件（kb，fangzhou）
 * 数据库 （guolin，kb，后端所有）
@@ -39,15 +39,15 @@
 $ git summary 
 
  project  : duobei-knowledge
- repo age : 4 days
- active   : 3 days
- commits  : 17
- files    : 8
+ repo age : 6 days
+ active   : 5 days
+ commits  : 30
+ files    : 13
  authors  : 
-    12	liuguolin               70.6%
-     3	likieyes                17.6%
-     2	kbisnotzombie           11.8%
-
+    19	liuguolin               63.3%
+     4	Qiu Kangbo              13.3%
+     4	kbisnotzombie           13.3%
+     3	likieyes                10.0%
 
 ```
 
@@ -56,16 +56,21 @@ $ git summary
 ```bash
 $ git effort
 
-  file                                          commits    active days
+file                                          commits    active days
 
-  README.md.................................... 3          2
+  README.md.................................... 11         4
   backend/Serialize.md......................... 1          1
   backend/Validation.md........................ 1          1
-  backend/back-end.md.......................... 6          3
+  backend/back-end.md.......................... 7          4
   backend/html5/desktop-notifications.md....... 1          1
   backend/jenkins.md........................... 5          2
   backend/jetty.md............................. 2          1
-  front-end.md................................. 4          2
+  frontEnd/chrome-extension.md................. 1          1
+  frontEnd/fe-test.md.......................... 4          1
+  frontEnd/front-end.md........................ 1          1
+  frontEnd/grunt.md............................ 1          1
+  frontEnd/javascript-learning.md.............. 1          1
+  static/img/html5.jpg......................... 1          1
 
 ```
 
