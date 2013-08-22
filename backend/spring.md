@@ -64,6 +64,5 @@
 
 ---
 ### 参考来源：
-* http://www.springsource.org/ Spring官网
-* http://static.springsource.org/spring/docs/3.2.4.RELEASE/spring-framework-reference/html/  Spring 3.2.4官方文档
-* 
+1. http://www.springsource.org/ Spring官网
+2. http://static.springsource.org/spring/docs/3.2.4.RELEASE/spring-framework-reference/html/  Spring 3.2.4官方文档
