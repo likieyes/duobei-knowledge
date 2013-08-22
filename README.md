@@ -11,14 +11,14 @@
 
 * html5和css3 （hangliang,kb,yiwei,sihua,laixuan）
 * [node.js](backend/nodejs/index.md) (guolin, 所有人) 
-* node-webkit (yunliang，luofei，fangzhou)
+* node-webkit (luofei，yunliang，fangzhou)
 * [grunt](frontEnd/grunt.md)(kb,guolin) 
 * [javascript](frontEnd/javascript-learning.md)(kb,yiwei guolin xieshuai)
 * [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
 * 响应式（hangliang）
 * [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
 * SEO(fangzhou,所有人)
-* 性能优化（yiwei）
+* [性能优化](frontEnd/performance-optimization.md)（yiwei）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
 * [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
