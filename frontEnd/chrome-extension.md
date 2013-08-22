@@ -1,4 +1,4 @@
-## chorme扩展学习研究
+# chorme扩展学习研究 #
 1. chrome扩展入门  
     - https://developer.chrome.com/extensions/getstarted.html
     - https://developer.chrome.com/extensions/overview.html
@@ -27,7 +27,7 @@
     - 代码学习实例2 http://www.cnblogs.com/walkingp/archive/2011/03/31/2001628.html
     - 代码学习实例3 http://blog.qiwen.name/search/label/Chrome
 
-### 目标（想法，不一定都会去做） ###
+## 目标（想法，不一定都会去做） ##
 - 在多贝网做一款能提供比如可以在课前利用notification提醒用户课程即将开始、帮助用户进入火爆教室等功能、分析用户当前网速情况并给与优化建议的插件
 - 帮助运营市场可以分析用户热点点击
 - 其他想法酝酿中。。。
