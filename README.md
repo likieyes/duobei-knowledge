@@ -20,7 +20,7 @@
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
-* websocket (fangzhou，kb，tom，xieshuai)
+* [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
 * [chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou）
 * 数据库 （guolin，kb，后端所有）
