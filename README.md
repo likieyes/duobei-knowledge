@@ -7,31 +7,39 @@
 * [前端](frontEnd/front-end.md)
 * [后端](backend/back-end.md)
 
+## 分享
+
+* [javascript](frontEnd/javascript-learning.md)(kb,所有人)
+* SEO(fangzhou,所有人)
+
 ##目前研发
 
 * html5和css3 （hangliang,kb,yiwei,sihua,laixuan）
-* [node.js](backend/nodejs/index.md) (guolin, 所有人) 
+* ~~[node.js](backend/nodejs/index.md) (guolin, 所有人)~~ 
 * node-webkit (luofei，yunliang，fangzhou)
-* [grunt](frontEnd/grunt.md)(kb,guolin) 
-* [javascript](frontEnd/javascript-learning.md)(kb,yiwei guolin xieshuai)
-* [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
-* 响应式（hangliang）
+* ~~[grunt](frontEnd/grunt.md)(kb,guolin)~~
+* ~~[Seajs (yunliang,kb)](frontEnd/module_file_loader.md)~~
+* ~~响应式（hangliang,xujin,kb）~~
 * [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
-* SEO(fangzhou,所有人)
-* [性能优化](frontEnd/performance-optimization.md)（yiwei）
+* [前端性能优化](frontEnd/performance-optimization.md)（yiwei,guolin）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
-* [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai)
+* [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai,laixuan)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
-* [chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou）
-* [数据库](backend/mysql/index.md) （guolin，kb，后端所有）
-* 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
-* lucune (shaopeng,naiyun,guolin)
-* hadoop (naiyun,zhanwang,xujun)
-* 性能监控（zhenrong,guolin,fangzhou）
-* [spring](backend/spring.md) (guoning,guolin)
+* ~~[chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou,hangliang,guolin）~~
+* [数据库](backend/mysql/index.md) （guolin，kb，后端所有,tom）
+* 推荐 （zhanwang,xujin,zhenrong,guolin,guoning,shaopeng,tom）
+* ~~lucune (guolin,shaopeng,naiyun)~~
+* hadoop (shaopeng,naiyun,zhanwang,xujun)
+* 性能监控（zhenrong,guolin,fangzhou,tom,chenfeng）
+* [spring](backend/spring.md) (guoning,guolin，后端)
 * 缓存系统 （xujin,guolin,zhenrong,zhanwang）
 
 > note: 前端相关kb，yunliang 都要加入。后端 guolin，zhenrong 都要加入
+
+
+## 补充
+
+* java 虚拟机
 
 ##代码贡献
 
