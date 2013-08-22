@@ -10,25 +10,25 @@
 ##目前研发
 
 * html5和css3 （hangliang,kb,yiwei）
-* node.js (guolin, 所有人) 
+* [node.js](backend/nodejs/index.md) (guolin, 所有人) 
 * node-webkit (yunliang，luofei，fangzhou)
-* grunt (kb,guolin) 
-* javascript(Kb,yiwei guolin xieshuai)
-* Seajs (yunliang,kb)
+* [grunt](frontEnd/grunt.md)(kb,guolin) 
+* [javascript](frontEnd/javascript-learning.md)(kb,yiwei guolin xieshuai)
+* [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
 * 响应式（hangliang）
-* 测试（kb,guolin,yunlaing）
+* [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
-* 前端MVC（yunliang）
-* websocket (fangzhou，kb，tom，xieshuai)
-* endjava(xueshuai)
-* chrome 插件（kb，fangzhou）
-* 数据库 （guolin，kb，后端所有）
+* [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
+* [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai)
+* [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
+* [chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou）
+* [数据库](backend/mysql/index.md) （guolin，kb，后端所有）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
 * lucune (shaopeng,naiyun,guolin)
 * hadoop (naiyun,zhanwang,xujun)
 * 性能监控（zhenrong,guolin,fangzhou）
-* spring (guoning,guolin)
+* [spring](backend/spring.md) (guoning,guolin)
 * 缓存系统 （xujin,guolin,zhenrong,zhanwang）
 
 > note: 前端相关kb，yunliang 都要加入。后端 guolin，zhenrong 都要加入
@@ -39,15 +39,23 @@
 $ git summary 
 
  project  : duobei-knowledge
- repo age : 6 days
- active   : 5 days
- commits  : 30
- files    : 13
+ repo age : 10 days
+ active   : 10 days
+ commits  : 65
+ files    : 29
  authors  : 
-    19	liuguolin               63.3%
-     4	Qiu Kangbo              13.3%
-     4	kbisnotzombie           13.3%
-     3	likieyes                10.0%
+    25	liuguolin               38.5%
+     8	Qiu Kangbo              12.3%
+     8	kbisnotzombie           12.3%
+     6	Guo Ning                9.2%
+     5	nhl                     7.7%
+     4	xieshuai                6.2%
+     3	likieyes                4.6%
+     3	xuanfeng                4.6%
+     1	GuoNinggn               1.5%
+     1	Lu Yunliang             1.5%
+     1	louise                  1.5%
+
 
 ```
 
@@ -73,4 +81,3 @@ file                                          commits    active days
   static/img/html5.jpg......................... 1          1
 
 ```
-
