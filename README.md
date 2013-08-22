@@ -14,14 +14,14 @@
 * node-webkit (yunliang，luofei，fangzhou)
 * grunt (kb,guolin) 
 * javascript(Kb,yiwei guolin xieshuai)
-* Seajs (yunliang,kb)
+* [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
 * 响应式（hangliang）
 * 测试（kb,guolin,yunlaing）
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
-* 前端MVC（yunliang）
+* [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
 * websocket (fangzhou，kb，tom，xieshuai)
-* endjava(xueshuai)
+* [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
 * chrome 插件（kb，fangzhou）
 * 数据库 （guolin，kb，后端所有）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
