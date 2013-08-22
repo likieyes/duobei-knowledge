@@ -1,4 +1,3 @@
-
 普通响应式
 =====================
 响应式是一个网站能够兼容多个终端——而不是为每个终端做一个特定的版本。这个概念是为解决移动互联网浏览而诞生的。
@@ -45,6 +44,8 @@ Bootstrap是Twitter推出的一个开源的用于前端开发的工具包。它�
 - 用LESS构建
 
 ####资料
+
+
 1. Bootstrap中文网： http://www.bootcss.com/
 2. Bootstrap官网：   http://getbootstrap.com/2.3.2/
 3. LESSCSS中文网：   http://www.bootcss.com/lesscss.html
@@ -56,6 +57,9 @@ Bootstrap是Twitter推出的一个开源的用于前端开发的工具包。它�
 
 书籍
 =====================
+
+共享目录：\\192.168.0.62\duobei\duobei-docs\FE前端\docs\WEB
+
 - 响应式Web设计：HTML5和CSS3实战    ★★★★★
 - HTML5与CSS3权威指南              ★★★★★
 - HTML5_CSS3_中文参考手册          ★★★
