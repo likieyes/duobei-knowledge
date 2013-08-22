@@ -5,6 +5,11 @@
 * 数据库优化
 * 数据库集群
 
+### 研发计划
+
+trello:
+
+https://trello.com/b/tgwZPG4f/-
 
 ###参考书籍
 
