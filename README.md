@@ -13,7 +13,7 @@
 * node.js (guolin, 所有人) 
 * node-webkit (yunliang，luofei，fangzhou)
 * [grunt](frontEnd/grunt.md)(kb,guolin) 
-* [javascript](frontEnd/javascript-learning)(kb,yiwei guolin xieshuai)
+* [javascript](frontEnd/javascript-learning.md)(kb,yiwei guolin xieshuai)
 * [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
 * 响应式（hangliang）
 * [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
