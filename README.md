@@ -10,7 +10,7 @@
 ##目前研发
 
 * html5和css3 （hangliang,kb,yiwei）
-* node.js (guolin, 所有人) 
+* [node.js](backend/nodejs/index.md) (guolin, 所有人) 
 * node-webkit (yunliang，luofei，fangzhou)
 * [grunt](frontEnd/grunt.md)(kb,guolin) 
 * [javascript](frontEnd/javascript-learning.md)(kb,yiwei guolin xieshuai)
@@ -23,7 +23,7 @@
 * [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
 * [chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou）
-* 数据库 （guolin，kb，后端所有）
+* [数据库](backend/mysql/index.md) （guolin，kb，后端所有）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
 * lucune (shaopeng,naiyun,guolin)
 * hadoop (naiyun,zhanwang,xujun)
