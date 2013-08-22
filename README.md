@@ -12,17 +12,17 @@
 * html5和css3 （hangliang,kb,yiwei）
 * node.js (guolin, 所有人) 
 * node-webkit (yunliang，luofei，fangzhou)
-* grunt (kb,guolin) 
-* javascript(Kb,yiwei guolin xieshuai)
+* [grunt](frontEnd/grunt.md)(kb,guolin) 
+* [javascript](frontEnd/javascript-learning)(kb,yiwei guolin xieshuai)
 * [Seajs (yunliang,kb)](frontEnd/module_file_loader.md)
 * 响应式（hangliang）
-* 测试（kb,guolin,yunlaing）
+* [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
 * SEO(fangzhou,所有人)
 * 性能优化（yiwei）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
 * websocket (fangzhou，kb，tom，xieshuai)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
-* chrome 插件（kb，fangzhou）
+* [chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou）
 * 数据库 （guolin，kb，后端所有）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning）
 * lucune (shaopeng,naiyun,guolin)
