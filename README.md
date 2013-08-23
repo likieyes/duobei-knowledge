@@ -30,7 +30,7 @@
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning,shaopeng,tom）
 * ~~lucune (guolin,shaopeng,naiyun)~~
 * hadoop (shaopeng,naiyun,zhanwang,xujun)
-* 性能监控（zhenrong,guolin,fangzhou,tom,chenfeng）
+* [性能监控](backend/性能监控/index.md)（zhenrong,guolin,fangzhou,tom,chenfeng）
 * [spring](backend/spring.md) (guoning,guolin，后端)
 * 缓存系统 （xujin,guolin,zhenrong,zhanwang）
 
