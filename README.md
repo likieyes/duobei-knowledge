@@ -23,7 +23,7 @@
 * [测试](frontEnd/fe-test.md)（kb,guolin,yunlaing）
 * [前端性能优化](frontEnd/performance-optimization.md)（yiwei,guolin）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
-* [websocket](https://github.com/adamzhou/adamchatroom) (fangzhou，kb，tom，xieshuai,laixuan)
+* [websocket](frontEnd/WebSocket.md) (fangzhou，kb，tom，xieshuai,laixuan)
 * [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
 * ~~[chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou,hangliang,guolin）~~
 * [数据库](backend/mysql/index.md) （guolin，kb，后端所有,tom）
