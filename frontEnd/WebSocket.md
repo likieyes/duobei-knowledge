@@ -6,4 +6,5 @@
 
 ##  目标 ##
 
-使用WebSocket完成一个HTML5版的实时教室
+* 试着写出一个类似于stock.io的框架
+* 使用WebSocket完成一个HTML5版的实时教室
