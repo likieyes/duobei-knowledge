@@ -14,7 +14,7 @@
 
 ##目前研发
 
-* ~~[html5和css3](frontEnd/HTML5-CSS3.md) （hangliang,kb,yiwei,sihua,laixuan）
+* [html5和css3](frontEnd/HTML5-CSS3.md) （hangliang,kb,yiwei,sihua,laixuan）
 * ~~[node.js](backend/nodejs/index.md) (guolin, 所有人)~~ 
 * node-webkit (luofei，yunliang，fangzhou)
 * ~~[grunt](frontEnd/grunt.md)(kb,guolin)~~
