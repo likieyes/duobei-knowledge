@@ -34,7 +34,7 @@
 * [性能监控](backend/性能监控/index.md)（zhenrong,guolin,fangzhou,tom,chenfeng）
 * [spring](backend/spring.md) (guoning,guolin，后端)
 * 缓存系统 （xujin,guolin,zhenrong,zhanwang）
-* [Manhattan](http://github.com/simpleapples/Manhattan/README.md)(sihua, luofei, zhiya, kaka)
+* [Manhattan](https://github.com/simpleapples/Manhattan/blob/master/README.md)(sihua, luofei, zhiya, kaka)
 
 > note: 前端相关kb，yunliang 都要加入。后端 guolin，zhenrong 都要加入
 
