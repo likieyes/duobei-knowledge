@@ -35,9 +35,9 @@
 * [spring](backend/spring.md) (guoning,guolin，后端)
 * 缓存系统 （xujin,guolin,zhenrong,zhanwang）
 * [Manhattan](https://github.com/simpleapples/Manhattan/blob/master/README.md)(sihua, luofei, zhiya, kaka)
-* [消息队列](tom,chenfeng,kaka)
-* [Go](tom,chenfeng,kaka)
-* [自动化部署](tom,chenfeng,kaka)
+* [消息队列] (tom,chenfeng,kaka)
+* [Go] (tom,chenfeng,kaka)
+* [自动化部署] (tom,chenfeng,kaka)
 
 > note: 前端相关kb，yunliang 都要加入。后端 guolin，zhenrong 都要加入
 
