@@ -52,45 +52,27 @@
 $ git summary 
 
  project  : duobei-knowledge
- repo age : 10 days
- active   : 10 days
- commits  : 65
- files    : 29
+ repo age : 3 weeks
+ active   : 14 days
+ commits  : 107
+ files    : 49
  authors  : 
-    25	liuguolin               38.5%
-     8	Qiu Kangbo              12.3%
-     8	kbisnotzombie           12.3%
-     6	Guo Ning                9.2%
-     5	nhl                     7.7%
-     4	xieshuai                6.2%
-     3	likieyes                4.6%
-     3	xuanfeng                4.6%
-     1	GuoNinggn               1.5%
-     1	Lu Yunliang             1.5%
-     1	louise                  1.5%
+    29	liuguolin               27.1%
+    15	zangzhiya               14.0%
+    12	Qiu Kangbo              11.2%
+     9	nhl                     8.4%
+     8	kbisnotzombie           7.5%
+     7	Guo Ning                6.5%
+     5	Fan Yiwei               4.7%
+     4	xieshuai                3.7%
+     4	xuanfeng                3.7%
+     3	adamzhou                2.8%
+     3	kaixiang zhong          2.8%
+     3	likieyes                2.8%
+     2	li zhenrong             1.9%
+     1	GuoNinggn               0.9%
+     1	Lu Yunliang             0.9%
+     1	louise                  0.9%
 
-
-```
-
-## 项目活跃度
-
-```bash
-$ git effort
-
-file                                          commits    active days
-
-  README.md.................................... 11         4
-  backend/Serialize.md......................... 1          1
-  backend/Validation.md........................ 1          1
-  backend/back-end.md.......................... 7          4
-  backend/html5/desktop-notifications.md....... 1          1
-  backend/jenkins.md........................... 5          2
-  backend/jetty.md............................. 2          1
-  frontEnd/chrome-extension.md................. 1          1
-  frontEnd/fe-test.md.......................... 4          1
-  frontEnd/front-end.md........................ 1          1
-  frontEnd/grunt.md............................ 1          1
-  frontEnd/javascript-learning.md.............. 1          1
-  static/img/html5.jpg......................... 1          1
 
 ```
