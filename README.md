@@ -25,7 +25,7 @@
 * [前端性能优化](frontEnd/performance-optimization.md)（yiwei,guolin）
 * [前端MVC（yunliang）](frontEnd/javascript_mvc.md)
 * [websocket](frontEnd/WebSocket.md) (fangzhou，kb，tom，xieshuai,laixuan)
-* [endjava](https://github.com/sqxieshuai/endJava-jsonEditor)(xieshuai)
+* [endjava](https://github.com/sqxieshuai/endJava_fe_be)(xieshuai)
 * ~~[chrome 插件](frontEnd/chrome-extension.md)（kb，fangzhou,hangliang,guolin）~~
 * [数据库](backend/mysql/index.md) （guolin，kb，后端所有,tom）
 * 推荐 （zhanwang,xujin,zhenrong,guolin,guoning,shaopeng,tom）
