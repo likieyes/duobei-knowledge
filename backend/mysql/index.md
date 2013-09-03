@@ -14,3 +14,10 @@ https://trello.com/b/tgwZPG4f/-
 ###参考书籍
 
 * [高性能MySQL](高性能书籍目录.md)
+
+
+###文档
+
+
+* [慢日志处理](slow_log.md)
+* [慢日志处理分析](slow_log分析.md)
