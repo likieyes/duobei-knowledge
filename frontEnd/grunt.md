@@ -16,3 +16,5 @@
 
 ## 具体研究记录 ##
 **20130902-20130906** grunt在多贝升级为0.4的版本，解决了之前grunt版本无法合并压缩并混淆js的尴尬局面
+- 做了比较完善的[demo](https://github.com/kbisnotzombie/grunt-fedeploy)版本，可在dev和www上部署。具体配置项等涉及多贝的信息未提交到项目上。
+- 查看gruntjs.com中很多关于grunt的task和api的文档，grunt0.3和grunt0.4的版本在写task上有很多不同的地方，以前的部署配置在升级后需要重写。
