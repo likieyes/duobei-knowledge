@@ -52,27 +52,28 @@
 $ git summary 
 
  project  : duobei-knowledge
- repo age : 3 weeks
- active   : 14 days
- commits  : 107
- files    : 49
+ repo age : 5 weeks
+ active   : 19 days
+ commits  : 122
+ files    : 52
  authors  : 
-    29	liuguolin               27.1%
-    15	zangzhiya               14.0%
-    12	Qiu Kangbo              11.2%
-     9	nhl                     8.4%
-     8	kbisnotzombie           7.5%
-     7	Guo Ning                6.5%
-     5	Fan Yiwei               4.7%
-     4	xieshuai                3.7%
-     4	xuanfeng                3.7%
-     3	adamzhou                2.8%
-     3	kaixiang zhong          2.8%
-     3	likieyes                2.8%
-     2	li zhenrong             1.9%
-     1	GuoNinggn               0.9%
-     1	Lu Yunliang             0.9%
-     1	louise                  0.9%
+    32	liuguolin               26.2%
+    19	zangzhiya               15.6%
+    18	Qiu Kangbo              14.8%
+     9	nhl                     7.4%
+     8	kbisnotzombie           6.6%
+     7	Guo Ning                5.7%
+     5	Fan Yiwei               4.1%
+     5	xieshuai                4.1%
+     4	xuanfeng                3.3%
+     3	adamzhou                2.5%
+     3	kaixiang zhong          2.5%
+     3	likieyes                2.5%
+     2	li zhenrong             1.6%
+     1	GuoNinggn               0.8%
+     1	Lu Yunliang             0.8%
+     1	louise                  0.8%
+     1	wangxujin               0.8%
 
 
 ```
