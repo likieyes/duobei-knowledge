@@ -7,7 +7,8 @@
 3. grunt-contrib-qunit qunit单元测试
 4. grunt-concat-min.js 有初步demo 合并压缩js 需要`grunt-contrib-concat` `grunt-contrib-uglify`
 5. grunt-contrib-watch 监测文件增加、改动、删除，可能要结合grunt-contrib-livereload 做浏览器reload
-6. 其他的还在想。。。欢迎补充
+6. [grunt-shell](https://github.com/sindresorhus/grunt-shell "grunt-shell") Grunt task to run shell commands
+7. 其他的还在想。。。欢迎补充
 
 ##  目标 ##
 - 能比之前前端部署更方便些，更快速
@@ -38,3 +39,5 @@
 - 当天部署了之后，由于修改了页面样式，再次部署了几遍前端，无意中发现.min.css文件中的css有重复，而且会重复若干遍，很诡异，会在浏览器中影响调试。课程页面最恐怖，重复7遍的css代码达到了100+KB
 - 经过查看代码分析，得知：每次根据css压缩生成min.css，会将之前的min.css内容和最新一次压缩的内容合并到min.css文件中，www9月18号貌似前端部署了6次，导致每个页面中的min.css包含重复6遍页面完整的css。之后为了验证自己的猜想，再次部署了一次前端，发现每个页面有重复7遍该页面的css代码，证明了之前的分析。
 - 解决:使用grunt-contrib-clean来清楚文件和目录，同时调整了部署总task中的具体子task，原来压缩在前端项目中做压缩，后来改为在部署环境中做css压缩，所以每次copy静态资源到部署环境目录下之前，做一下clean的task将之前的.min.css文件删除，之后完成copy，接着再做css压缩工作，这样就解决了当天的问题，不会有重复的css了。
+
+** 20131030** 增加grunt-shell，可以在grunt中执行shell命令，来辅助完成一些优化工作。
